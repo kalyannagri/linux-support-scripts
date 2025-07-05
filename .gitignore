@@ -1,0 +1,7 @@
+*.log
+*.tmp
+*.bak
+.DS_Store
+
+
+#To ignore system files like .DS_Store, Thumbs.db, or logs.
